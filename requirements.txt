@@ -1,0 +1,3 @@
+# specifying the libraries that have to be installed.
+#  version should be specified too
+numpy
